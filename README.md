@@ -10,8 +10,8 @@ C&#39;est un cours que s&#39;effectue a distance dans le cadre d&#39;une option 
   - cours\_03
   - cours\_04
 - 2 fichiers
-  - [md](http://readme.md/)
-  - [md](http://syllabus.md/)
+  - README.md
+  - syllabus.md
 
 **qui a contribué à ce cours**
 
